@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj": {}
+    "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj": {
+    "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj",
+        "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj",
         "projectName": "teste_calculadora_mstest",
-        "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj",
+        "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_mstest\\teste_calculadora_mstest.csproj",
         "packagesPath": "C:\\Users\\dsautiagogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_mstest\\obj\\",
+        "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_mstest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

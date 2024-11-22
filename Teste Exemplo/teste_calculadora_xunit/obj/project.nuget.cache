@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBnIbUOBpJU=",
+  "dgSpecHash": "LxTjPH/wNLo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
+  "projectFilePath": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dsautiagogomes\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\dsautiagogomes\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -5514,11 +5514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
+      "projectUniqueName": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
       "projectName": "teste_calculadora_xunit",
-      "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
+      "projectPath": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_xunit\\teste_calculadora_xunit.csproj",
       "packagesPath": "C:\\Users\\dsautiagogomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\Teste de Back-End\\Teste Exemplo\\teste_calculadora_xunit\\obj\\",
+      "outputPath": "C:\\Users\\dsautiagogomes\\OneDrive\\TesteBack-End\\Teste Exemplo\\teste_calculadora_xunit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
