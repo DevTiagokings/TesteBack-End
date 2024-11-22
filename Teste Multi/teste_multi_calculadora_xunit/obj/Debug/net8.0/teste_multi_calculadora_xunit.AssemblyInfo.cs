@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste_multi_calculadora_xunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d30b28d12bd5333c362647e4c881ac83c89a05b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c61ee0f52d935b9c680c12bff04edfc0fbd17cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste_multi_calculadora_xunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste_multi_calculadora_xunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
